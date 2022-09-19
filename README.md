@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Giselle Souza  👩🏽‍💻<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20" width="30">
-     
+
+ <img src="./CapaGiselleSouza.gif"/>
+ 
 <div align="center">
   <a href="https://github.com/gisellesouzaa">
   <img height="180em" 
