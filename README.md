@@ -1,9 +1,11 @@
 ### Seja bem vindo(a)! 
 ### Eu sou a Giselle Souza👩🏽‍💻
 🔭 Estudante do Bootcamp Desenvolvedor Java Fullstack da Generation Brazil <br>
-💻Cursando a Pós graduação em Analise e Desenvolvimento de Programas <br>
-🎓Graduada em Administração de Empresas <br>
-❤️ Eu vejo na programação um mundo de possibilidades que une essa minha bagagem de conhecimentos com a prática de entregar soluções ao cliente. E assim, encontrei na programação uma paixão que me move a buscar cada vez mais novos desafios e conhecimentos.  <br>
+💻 Cursando a pós-graduação em Analise e Desenvolvimento de Programas <br>
+💡 Pós graduada em Marketing Internacional <br>
+🎓 Graduada em Administração de Empresas <br>
+❤️ Encontrei na programação uma paixão que me move a buscar cada vez mais novos desafios e conhecimentos  <br>
+🎯 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer profissionalmente
 
  <a href="https://gisellesouzaa.github.io/portfolio/">
  <img src="CapaGiselleSouza.gif">
@@ -16,6 +18,7 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
+ <h3>Tecnológias</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,14 +27,22 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-p
  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
+ 
+ <h3>Contatos</h3>
+ 
+  <a href="mailto:giselle_souza97@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/Email-720e92?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giselle-de-souza-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <a href="https://gisellesouzaa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-691853?style=for-the-badge&logoColor=white" target="_blank"></a>
 
  
+
+
 </div>
   
   
 <!--
+ <a href="https://discord.com/users/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
 cobrinha: ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 👋
 
