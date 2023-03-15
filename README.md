@@ -1,4 +1,9 @@
-### Olá, seja bem vindo!  👩🏽‍💻<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20" width="30">
+### Seja bem vindo(a)! 
+### Eu sou a Giselle Souza👩🏽‍💻
+🔭 Estudante do Bootcamp Desenvolvedor Java Fullstack da Generation Brazil <br>
+💻Cursando a Pós graduação em Analise e Desenvolvimento de Programas <br>
+🎓Graduada em Administração de Empresas <br>
+❤️ Eu vejo na programação um mundo de possibilidades que une essa minha bagagem de conhecimentos com a prática de entregar soluções ao cliente. E assim, encontrei na programação uma paixão que me move a buscar cada vez mais novos desafios e conhecimentos.  <br>
 
  <a href="https://gisellesouzaa.github.io/portfolio/">
  <img src="CapaGiselleSouza.gif">
@@ -14,6 +19,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="JAVA" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
   <a href="https://www.linkedin.com/in/giselle-de-souza-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -26,16 +34,4 @@
 <!--
 cobrinha: ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 👋
-- 🌱 Eu estou estudando Javascript, HTML e CSS.
-- imagens das linguagens: Devicon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
