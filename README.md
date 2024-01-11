@@ -5,7 +5,6 @@
 💡 Pós-graduada em Marketing Internacional <br>
 🎓 Graduada em Administração de Empresas <br>
 ❤️ Encontrei na programação uma paixão que me move a buscar cada vez mais novos desafios e conhecimentos  <br>
-🎯 Em busca de uma oportunidade para aplicar meus conhecimentos e crescer profissionalmente
 
  <a href="https://gisellesouzaa.github.io/portfolio/">
  <img src="CapaGiselleSouza.gif">
