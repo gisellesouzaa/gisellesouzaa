@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)! 
 ### Eu sou a Giselle Souza👩🏽‍💻
-🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br>
-💻 Cursando a Pós-graduação em Análise e Desenvolvimento de Programas <br>
+<!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
+💻 Pós-graduada em Análise e Desenvolvimento de Programas <br>
 💡 Pós-graduada em Marketing Internacional <br>
 🎓 Graduada em Administração de Empresas <br>
 ❤️ Encontrei na programação uma paixão que me move a buscar cada vez mais novos desafios e conhecimentos  <br>
